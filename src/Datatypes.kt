@@ -32,6 +32,6 @@ fun main()
     println("******User Info******")
     println("Name:"+fname+" "+lname)
     println("Age:"+age)
-    println("Result:"+res)
+    println("Result:$res") //you can also use variable inside double quote  by using $ sign in front of the variable
 
 }
