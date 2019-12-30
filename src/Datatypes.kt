@@ -12,7 +12,7 @@ fun main()
 
 
     //2. When you want to put data in variable in next line or later
-    var str1:String   // when you wan to put data in next line or in later you must define datatype of that variable
+    var str1:String   // when you want to put data in next line or later you must define datatype of that variable
     str1 = "Abc Xyz"
     println(str1)
     println(str1)
