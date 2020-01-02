@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="533b6b7f-89e4-4131-97d0-e3aad5c6f848" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/KotlinDemo/InputsKt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inputs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwapNumbers.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/DatatypesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/DatatypesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/FirstCodeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/FirstCodeKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/META-INF/KotlinDemo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/META-INF/KotlinDemo.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Datatypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Datatypes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirstCode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstCode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Py1LfH9p1c9057sVopasg3QnjW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,7 +37,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Kotlin.InputsKt">
+  <component name="RunManager" selected="Kotlin.SwapNumbersKt">
     <configuration name="DatatypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinDemo" />
       <option name="VM_PARAMETERS" />
@@ -79,8 +77,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwapNumbersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SwapNumbersKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SwapNumbersKt" />
         <item itemvalue="Kotlin.InputsKt" />
         <item itemvalue="Kotlin.FirstCodeKt" />
         <item itemvalue="Kotlin.DatatypesKt" />
@@ -150,22 +162,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577275322557" />
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1577968094321">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1577971695554">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577968094321" />
-    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1577968094320">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577971695554" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1577971695554">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577968094320" />
-    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1577968094320">
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577971695554" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1577971695554">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577968094320" />
-    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1577968094321">
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577971695554" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1577971695554">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577968094321" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577971695554" />
     <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1577959678751">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
