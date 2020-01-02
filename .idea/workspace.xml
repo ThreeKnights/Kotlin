@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="533b6b7f-89e4-4131-97d0-e3aad5c6f848" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/KotlinDemo/InputsKt.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Inputs.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinDemo/DatatypesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinDemo/DatatypesKt.class" afterDir="false" />
