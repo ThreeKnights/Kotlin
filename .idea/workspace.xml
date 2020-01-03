@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="533b6b7f-89e4-4131-97d0-e3aad5c6f848" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SwapNumNoTemp.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindMyAge.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -37,7 +37,20 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Kotlin.SwapNumNoTempKt">
+  <component name="RunManager" selected="Kotlin.FindMyAgeKt">
+    <configuration name="FindMyAgeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FindMyAgeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstCodeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinDemo" />
       <option name="VM_PARAMETERS" />
@@ -46,19 +59,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="FirstCodeKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InputsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="InputsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FindMyAgeKt" />
+        <item itemvalue="Kotlin.FirstCodeKt" />
         <item itemvalue="Kotlin.SwapNumNoTempKt" />
         <item itemvalue="Kotlin.MathOperationsKt" />
         <item itemvalue="Kotlin.SwapNumbersKt" />
-        <item itemvalue="Kotlin.InputsKt" />
-        <item itemvalue="Kotlin.FirstCodeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -176,26 +176,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577275322557" />
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1577974793260">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1578056606974">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577974793260" />
-    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1577974793259">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578056606974" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1578056606974">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577974793259" />
-    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1577974793259">
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578056606974" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1578056606974">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577974793259" />
-    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1577974793259">
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578056606974" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1578056606974">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577974793259" />
-    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1577990429883">
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578056606974" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1578049912826">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1577990429883" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1578049912826" />
     <state x="209" y="39" key="new project wizard" timestamp="1577275325050">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
