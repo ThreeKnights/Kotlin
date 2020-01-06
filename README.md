@@ -14,5 +14,6 @@
 12. NestedIf.kt
 13. ExpressionCondition.kt
 14. Assignment 3 Check if given number is even or odd
-15.SimpleFor.kt
+15. SimpleFor.kt
 16. WhileDoWhile.kt
+17. BreakAndContinue.kt
