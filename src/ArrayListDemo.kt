@@ -17,14 +17,14 @@ fun main()
 
     //to print that ArrayList using index
     println("Print ArrayList using Index")
-    for (i in  0 until pet.size) //Also equal to 0..max-1
+    for (i in  0 until pet.size)
     {
         println("Pet Name: ${pet[i]}")
     }
 
     //to print that ArrayList using objects
     println("Print ArrayList Using Objects")
-    for (i in  pet) //Also equal to 0..max-1
+    for (i in  pet)
     {
         println("Pet Name: $i")
     }
