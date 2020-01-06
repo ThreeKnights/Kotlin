@@ -13,3 +13,4 @@
 11. WhenMenu.kt
 12. NestedIf.kt
 13. ExpressionCondition.kt
+14. Assignment 3 Check if given number is even or odd
