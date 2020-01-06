@@ -10,3 +10,4 @@
 8. LogicConditions.kt
 9. SimpleIf.kt
 10. IfElseIf.kt
+11. WhenMenu.kt
