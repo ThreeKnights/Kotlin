@@ -17,3 +17,4 @@
 15. SimpleFor.kt
 16. WhileDoWhile.kt
 17. BreakAndContinue.kt
+18. Assignment 4 Print the even number between 1-100
