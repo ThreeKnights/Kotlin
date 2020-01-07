@@ -22,3 +22,4 @@
 20. ArrayListDemo.kt
 21. LinkedListDemo.kt
 22. HashMapDemo.kt
+23. SimpleFunction.kt
