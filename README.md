@@ -25,3 +25,4 @@
 23. SimpleFunction.kt
 24. FunctionOverloading.kt
 25. FunctionPolymorphism.kt
+26. Lamda.kt
