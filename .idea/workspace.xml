@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="533b6b7f-89e4-4131-97d0-e3aad5c6f848" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HashMapDemo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +43,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Kotlin.ArrayListDemoKt">
+  <component name="RunManager" selected="Kotlin.HashMapDemoKt">
     <configuration name="Array1DKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinDemo" />
       <option name="VM_PARAMETERS" />
@@ -70,14 +72,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakAndContinueKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="HashMapDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="BreakAndContinueKt" />
+      <option name="MAIN_CLASS_NAME" value="HashMapDemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.HashMapDemoKt" />
         <item itemvalue="Kotlin.ArrayListDemoKt" />
         <item itemvalue="Kotlin.StringDemoKt" />
         <item itemvalue="Kotlin.Array1DKt" />
         <item itemvalue="Kotlin.PrintEvenNumKt" />
-        <item itemvalue="Kotlin.BreakAndContinueKt" />
       </list>
     </recent_temporary>
   </component>
@@ -182,22 +184,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577275322557" />
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1578348403352">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1578407164964">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578348403352" />
-    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1578348403352">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578407164964" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1578407164963">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578348403352" />
-    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1578348403352">
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578407164963" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1578407164963">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578348403352" />
-    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1578348403352">
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578407164963" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1578407164964">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578348403352" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578407164964" />
     <state width="1493" height="256" key="GridCell.Tab.1.bottom" timestamp="1578337399369">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -214,14 +216,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="256" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578337399369" />
-    <state x="500" y="28" key="SettingsEditor" timestamp="1578316806200">
+    <state x="500" y="28" key="SettingsEditor" timestamp="1578404078601">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="500" y="28" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578316806200" />
-    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1578342328581">
+    <state x="500" y="28" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578404078601" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1578385412975">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1578342328581" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1578385412975" />
+    <state x="547" y="97" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578403468950">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="547" y="97" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1578403468950" />
     <state x="209" y="39" key="new project wizard" timestamp="1577275325050">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
