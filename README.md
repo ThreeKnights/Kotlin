@@ -23,3 +23,5 @@
 21. LinkedListDemo.kt
 22. HashMapDemo.kt
 23. SimpleFunction.kt
+24. FunctionOverloading.kt
+25. FunctionPolymorphism.kt
